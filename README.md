@@ -70,4 +70,3 @@
 
 - **Google Apps Not Functioning:**
   - Reflash GApps and ensure you’re using the correct version compatible with your LineageOS.
-```
