@@ -1,4 +1,4 @@
-```markdown
+
 # Realme C1 Rooting Guide Without Pc
 
 ## Prerequisites
